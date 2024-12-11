@@ -3,7 +3,7 @@
 h1 {
     color:aquamarine;
 }
-td:hover {
+label:hover {
    
     font-weight: bold; /* ทำให้ตัวอักษรหนาขึ้น */
     color: rgb(171, 12, 214);
