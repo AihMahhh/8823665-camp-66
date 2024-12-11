@@ -54,7 +54,7 @@ input:focus{
 body{
     font-family: "Itim", cursive; 
 }
-#Address:active{
+#Address:focus{
     color: rgb(171, 12, 214);
     background-color: rgb(239, 200, 186);
 }
